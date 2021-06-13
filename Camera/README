@@ -1,0 +1,2 @@
+This collection of scripts was my first attempt at creating a complex camera system. 
+They each work together to manage the player's camera transform according to input.
